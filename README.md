@@ -1,1 +1,1 @@
-# Day-88-Amazing-Restaurant-Management-Syatem-Website-Template
+# Day-88-Amazing-Restaurant-Management-System-Website-Template
